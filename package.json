@@ -1,0 +1,22 @@
+{
+  "name": "mentor_student_db",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node --watch index.js"
+  },
+  "keywords": [
+    "express",
+    "mongoose"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  }
+}
